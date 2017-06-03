@@ -2,6 +2,7 @@
 elm-stuff
 # elm-repl generated files
 repl-temp-*
+# node stuff
+node_modules
 # our built files
-elm.js
-styles.css
+dist

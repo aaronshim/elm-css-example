@@ -9,14 +9,14 @@ How to set up an example project with [`elm-css`](https://github.com/rtfeldman/e
 
 1. Prereqs
 
-        npm install -g elm
-        npm install -g elm-css
+        npm install -g yarn
+        yarn
 
-2. Build
+1. Build (and start our dev server)
 
-        make
+        yarn start
 
-3. Open `index.html` in a web browser
+3. Open `localhost:3000` in a web browser
 
 ## Remarks
 
